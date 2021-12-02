@@ -1,0 +1,20 @@
+.container
+{
+    width:400px!important;
+
+}
+.btn
+{
+    margin: 2px;
+    padding: 6px;
+    width: 20px;
+}
+.all-clear{width: 100%;}
+.equal{width: 100%;}
+.scren
+{
+    cursor:default;
+   padding: 20px;
+   font-size: 20px;
+   text-align: right;
+}
